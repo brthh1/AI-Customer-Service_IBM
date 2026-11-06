@@ -1,6 +1,6 @@
 # 🛍️ AI Customer Service Assistant – Bertha Store
 
-> **Capstone Project — IBM SkillsBuild University Education**
+> **Capstone Project — IBM SkillsBuild University Education X Hacktiv8**
 > Topic: AI Customer Service Assistant
 
 ---
