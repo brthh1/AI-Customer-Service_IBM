@@ -1,6 +1,6 @@
 # 🛍️ AI Customer Service Assistant – Bertha Store
 
-> **Capstone Project — IBM SkillsBuild University Education × Hacktiv8**
+> **Capstone Project — IBM SkillsBuild University Education**
 > Topic: AI Customer Service Assistant
 
 ---
@@ -204,15 +204,6 @@ Pemisahan `getResponse()` dari `UI` memudahkan integrasi LLM API di masa mendata
 - [ ] Notifikasi status pesanan real-time
 - [ ] Dukungan gambar produk
 
----
-
-## 👥 Tim Project
-
-| Nama | Role |
-|---|---|
-| Pengembang | Full-Stack Developer |
-| Program | IBM SkillsBuild University Education × Hacktiv8 |
-| Tahun | 2024 |
 
 ---
 
